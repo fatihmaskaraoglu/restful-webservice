@@ -1,6 +1,7 @@
-package com.fatihmas.rest.webservices.restfulwebservices;
+package com.fatihmas.rest.webservices.restfulwebservices.helloworld;
 
 
+import com.fatihmas.rest.webservices.restfulwebservices.helloworld.HelloWorldBean;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
