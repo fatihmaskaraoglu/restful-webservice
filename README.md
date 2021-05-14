@@ -1,2 +1,2 @@
 # restful-webservice
-My Restful Webservice Project
+My Restful Web Service Project
